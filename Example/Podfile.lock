@@ -1,0 +1,16 @@
+PODS:
+  - CombineCocoa (0.3.0)
+
+DEPENDENCIES:
+  - CombineCocoa (from `../`)
+
+EXTERNAL SOURCES:
+  CombineCocoa:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CombineCocoa: f9d1b5b786156e25357a2cc394449b279b5afc09
+
+PODFILE CHECKSUM: 19898029b2f3640d6c998827b076660d4767a5fd
+
+COCOAPODS: 1.10.1
